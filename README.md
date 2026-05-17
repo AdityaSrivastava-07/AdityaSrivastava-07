@@ -48,7 +48,7 @@ Building futuristic digital experiences with code ⚡
 # 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,figma,vscode" />
 </p>
 
 ---
