@@ -63,21 +63,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AdityaSrivastava-07">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaSrivastava-07&repo=Odd-One-Out-Game&theme=tokyonight&hide_border=true" alt="Odd One Out project card" />
-  </a>
-</p>
-
-| Project | Description |
-|---|---|
-| 🎮 Odd One Out | Interactive mini-game built for fun and engagement. |
-| 📚 ऋStart | Learning momentum platform focused on consistency and gamification. |
-| 📦 PackWise | B2B referral and resource-sharing network startup project. |
-| 🌐 Full Stack Projects | Web applications built with React, Node.js, Express, and PostgreSQL. |
-
 <p align="center">
   <a href="https://github.com/AdityaSrivastava-07?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
