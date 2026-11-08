@@ -63,29 +63,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/AdityaSrivastava-07?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
-  </a>
-</p>
-
----
-
 ## 🌟 Open Source Contributions
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSSoC-2026-8A2BE2?style=for-the-badge" alt="GSSoC 2026" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge&logo=github" alt="Open source contributor" />
-</p>
-
-- Fixed dark mode styling issues in **Nyay Setu Working**.
-- Improved Back-to-Top button transitions and scroll logic in **The-Lighthouse**.
-- Contributing to open-source projects through GSSoC.
-
-<p align="center">
-  <a href="https://github.com/AdityaSrivastava-07?tab=repositories">
-    <img src="https://img.shields.io/badge/Check_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
 </p>
 
 ---
