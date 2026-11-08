@@ -115,11 +115,22 @@ Building futuristic digital experiences with code ⚡
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
+<h2 align="center">🎮 GitHub Breakout</h2>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AdityaSrivastava-07/AdityaSrivastava-07/github-breakout/images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AdityaSrivastava-07/AdityaSrivastava-07/github-breakout/images/breakout-light.svg"
+    />
+    <img
+      alt="GitHub Breakout Game"
+      src="https://raw.githubusercontent.com/AdityaSrivastava-07/AdityaSrivastava-07/github-breakout/images/breakout-light.svg"
+    />
   </picture>
 </p>
 
