@@ -79,7 +79,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaSrivastava-07&theme=tokyonight&hide_border=true&background=0D1117" width="95%" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=AdityaSrivastava-07&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
@@ -87,7 +91,11 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSrivastava-07&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="GitHub contribution activity graph" />
+  <img
+    src="https://raw.githubusercontent.com/AdityaSrivastava-07/AdityaSrivastava-07/main/images/contributions.svg"
+    width="95%"
+    alt="GitHub contribution activity"
+  />
 </p>
 
 ---
